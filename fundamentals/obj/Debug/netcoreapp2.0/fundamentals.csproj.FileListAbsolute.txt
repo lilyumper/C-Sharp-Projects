@@ -1,0 +1,10 @@
+/Users/tomgarcia/Desktop/CodingDojo/fundamentals/bin/Debug/netcoreapp2.0/fundamentals.deps.json
+/Users/tomgarcia/Desktop/CodingDojo/fundamentals/bin/Debug/netcoreapp2.0/fundamentals.runtimeconfig.json
+/Users/tomgarcia/Desktop/CodingDojo/fundamentals/bin/Debug/netcoreapp2.0/fundamentals.runtimeconfig.dev.json
+/Users/tomgarcia/Desktop/CodingDojo/fundamentals/bin/Debug/netcoreapp2.0/fundamentals.dll
+/Users/tomgarcia/Desktop/CodingDojo/fundamentals/bin/Debug/netcoreapp2.0/fundamentals.pdb
+/Users/tomgarcia/Desktop/CodingDojo/fundamentals/obj/Debug/netcoreapp2.0/fundamentals.csproj.CoreCompileInputs.cache
+/Users/tomgarcia/Desktop/CodingDojo/fundamentals/obj/Debug/netcoreapp2.0/fundamentals.AssemblyInfoInputs.cache
+/Users/tomgarcia/Desktop/CodingDojo/fundamentals/obj/Debug/netcoreapp2.0/fundamentals.AssemblyInfo.cs
+/Users/tomgarcia/Desktop/CodingDojo/fundamentals/obj/Debug/netcoreapp2.0/fundamentals.dll
+/Users/tomgarcia/Desktop/CodingDojo/fundamentals/obj/Debug/netcoreapp2.0/fundamentals.pdb

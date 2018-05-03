@@ -1,0 +1,10 @@
+/Users/tomgarcia/Desktop/CodingDojo/C#/Human/obj/Debug/netcoreapp2.0/Human.csproj.CoreCompileInputs.cache
+/Users/tomgarcia/Desktop/CodingDojo/C#/Human/obj/Debug/netcoreapp2.0/Human.AssemblyInfoInputs.cache
+/Users/tomgarcia/Desktop/CodingDojo/C#/Human/obj/Debug/netcoreapp2.0/Human.AssemblyInfo.cs
+/Users/tomgarcia/Desktop/CodingDojo/C#/Human/bin/Debug/netcoreapp2.0/Human.deps.json
+/Users/tomgarcia/Desktop/CodingDojo/C#/Human/bin/Debug/netcoreapp2.0/Human.runtimeconfig.json
+/Users/tomgarcia/Desktop/CodingDojo/C#/Human/bin/Debug/netcoreapp2.0/Human.runtimeconfig.dev.json
+/Users/tomgarcia/Desktop/CodingDojo/C#/Human/bin/Debug/netcoreapp2.0/Human.dll
+/Users/tomgarcia/Desktop/CodingDojo/C#/Human/bin/Debug/netcoreapp2.0/Human.pdb
+/Users/tomgarcia/Desktop/CodingDojo/C#/Human/obj/Debug/netcoreapp2.0/Human.dll
+/Users/tomgarcia/Desktop/CodingDojo/C#/Human/obj/Debug/netcoreapp2.0/Human.pdb

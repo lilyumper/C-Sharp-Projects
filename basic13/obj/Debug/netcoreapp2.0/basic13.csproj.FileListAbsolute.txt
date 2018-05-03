@@ -1,0 +1,10 @@
+/Users/tomgarcia/Desktop/CodingDojo/C#/basic13/bin/Debug/netcoreapp2.0/basic13.deps.json
+/Users/tomgarcia/Desktop/CodingDojo/C#/basic13/bin/Debug/netcoreapp2.0/basic13.runtimeconfig.json
+/Users/tomgarcia/Desktop/CodingDojo/C#/basic13/bin/Debug/netcoreapp2.0/basic13.runtimeconfig.dev.json
+/Users/tomgarcia/Desktop/CodingDojo/C#/basic13/bin/Debug/netcoreapp2.0/basic13.dll
+/Users/tomgarcia/Desktop/CodingDojo/C#/basic13/bin/Debug/netcoreapp2.0/basic13.pdb
+/Users/tomgarcia/Desktop/CodingDojo/C#/basic13/obj/Debug/netcoreapp2.0/basic13.csproj.CoreCompileInputs.cache
+/Users/tomgarcia/Desktop/CodingDojo/C#/basic13/obj/Debug/netcoreapp2.0/basic13.AssemblyInfoInputs.cache
+/Users/tomgarcia/Desktop/CodingDojo/C#/basic13/obj/Debug/netcoreapp2.0/basic13.AssemblyInfo.cs
+/Users/tomgarcia/Desktop/CodingDojo/C#/basic13/obj/Debug/netcoreapp2.0/basic13.dll
+/Users/tomgarcia/Desktop/CodingDojo/C#/basic13/obj/Debug/netcoreapp2.0/basic13.pdb
