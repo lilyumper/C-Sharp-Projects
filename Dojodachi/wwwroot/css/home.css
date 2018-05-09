@@ -1,0 +1,34 @@
+#top{
+    text-align: center;
+}
+p{
+    display:inline-block;
+    margin-right: 30px;
+}
+
+#guy{
+    margin-top: 35px;
+   text-align: center;
+    outline: 1px solid black;
+    width: 500px;
+    height:600px;
+    margin:auto;
+
+
+}
+
+img {
+    height: 299px;
+    width: 340px;
+}
+form{
+    display: inline-block;
+    text-align: center;
+}
+#forms{
+    margin-top: 40px;
+    text-align: center;
+}
+input{
+    display:inline-block;
+}

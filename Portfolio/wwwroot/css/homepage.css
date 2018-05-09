@@ -1,0 +1,25 @@
+#Top{
+    text-align: center;
+    background-color: #902212;
+    color:white;
+}
+#header{
+    background-color:#902212;
+    font-family: 'Lobster', cursive;
+    height: 50px;
+    font-size: 42px;
+
+}
+button{
+    color: white;
+}
+#container{
+    margin-top: 20px;
+    text-align: center;
+}
+#me{
+    outline: 3px solid #902212;
+    display:inline-block;
+    height: 69px;
+    width: 670px;
+}

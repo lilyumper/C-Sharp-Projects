@@ -1,0 +1,10 @@
+/Users/tomgarcia/Desktop/CodingDojo/C#/RandomPasscode/bin/Debug/netcoreapp2.0/RandomPasscode.deps.json
+/Users/tomgarcia/Desktop/CodingDojo/C#/RandomPasscode/bin/Debug/netcoreapp2.0/RandomPasscode.runtimeconfig.json
+/Users/tomgarcia/Desktop/CodingDojo/C#/RandomPasscode/bin/Debug/netcoreapp2.0/RandomPasscode.runtimeconfig.dev.json
+/Users/tomgarcia/Desktop/CodingDojo/C#/RandomPasscode/bin/Debug/netcoreapp2.0/RandomPasscode.dll
+/Users/tomgarcia/Desktop/CodingDojo/C#/RandomPasscode/bin/Debug/netcoreapp2.0/RandomPasscode.pdb
+/Users/tomgarcia/Desktop/CodingDojo/C#/RandomPasscode/obj/Debug/netcoreapp2.0/RandomPasscode.csproj.CoreCompileInputs.cache
+/Users/tomgarcia/Desktop/CodingDojo/C#/RandomPasscode/obj/Debug/netcoreapp2.0/RandomPasscode.AssemblyInfoInputs.cache
+/Users/tomgarcia/Desktop/CodingDojo/C#/RandomPasscode/obj/Debug/netcoreapp2.0/RandomPasscode.AssemblyInfo.cs
+/Users/tomgarcia/Desktop/CodingDojo/C#/RandomPasscode/obj/Debug/netcoreapp2.0/RandomPasscode.dll
+/Users/tomgarcia/Desktop/CodingDojo/C#/RandomPasscode/obj/Debug/netcoreapp2.0/RandomPasscode.pdb

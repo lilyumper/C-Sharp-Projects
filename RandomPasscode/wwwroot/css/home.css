@@ -1,0 +1,13 @@
+#form{
+    text-align: center;
+    margin-top: 150px;
+    margin: auto;
+}
+
+#data{
+    text-align: center;
+    outline: 1px solid black;
+    width:200px;
+    margin: auto;
+    height:18px;
+}

@@ -1,0 +1,10 @@
+/Users/tomgarcia/Desktop/CodingDojo/C#/dojosurvey/bin/Debug/netcoreapp2.0/dojosurvey.deps.json
+/Users/tomgarcia/Desktop/CodingDojo/C#/dojosurvey/bin/Debug/netcoreapp2.0/dojosurvey.runtimeconfig.json
+/Users/tomgarcia/Desktop/CodingDojo/C#/dojosurvey/bin/Debug/netcoreapp2.0/dojosurvey.runtimeconfig.dev.json
+/Users/tomgarcia/Desktop/CodingDojo/C#/dojosurvey/bin/Debug/netcoreapp2.0/dojosurvey.dll
+/Users/tomgarcia/Desktop/CodingDojo/C#/dojosurvey/bin/Debug/netcoreapp2.0/dojosurvey.pdb
+/Users/tomgarcia/Desktop/CodingDojo/C#/dojosurvey/obj/Debug/netcoreapp2.0/dojosurvey.csproj.CoreCompileInputs.cache
+/Users/tomgarcia/Desktop/CodingDojo/C#/dojosurvey/obj/Debug/netcoreapp2.0/dojosurvey.AssemblyInfoInputs.cache
+/Users/tomgarcia/Desktop/CodingDojo/C#/dojosurvey/obj/Debug/netcoreapp2.0/dojosurvey.AssemblyInfo.cs
+/Users/tomgarcia/Desktop/CodingDojo/C#/dojosurvey/obj/Debug/netcoreapp2.0/dojosurvey.dll
+/Users/tomgarcia/Desktop/CodingDojo/C#/dojosurvey/obj/Debug/netcoreapp2.0/dojosurvey.pdb

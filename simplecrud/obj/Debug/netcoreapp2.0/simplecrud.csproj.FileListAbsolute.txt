@@ -1,0 +1,10 @@
+/Users/tomgarcia/Desktop/CodingDojo/C#/simplecrud/bin/Debug/netcoreapp2.0/simplecrud.deps.json
+/Users/tomgarcia/Desktop/CodingDojo/C#/simplecrud/bin/Debug/netcoreapp2.0/simplecrud.runtimeconfig.json
+/Users/tomgarcia/Desktop/CodingDojo/C#/simplecrud/bin/Debug/netcoreapp2.0/simplecrud.runtimeconfig.dev.json
+/Users/tomgarcia/Desktop/CodingDojo/C#/simplecrud/bin/Debug/netcoreapp2.0/simplecrud.dll
+/Users/tomgarcia/Desktop/CodingDojo/C#/simplecrud/bin/Debug/netcoreapp2.0/simplecrud.pdb
+/Users/tomgarcia/Desktop/CodingDojo/C#/simplecrud/obj/Debug/netcoreapp2.0/simplecrud.csproj.CoreCompileInputs.cache
+/Users/tomgarcia/Desktop/CodingDojo/C#/simplecrud/obj/Debug/netcoreapp2.0/simplecrud.AssemblyInfoInputs.cache
+/Users/tomgarcia/Desktop/CodingDojo/C#/simplecrud/obj/Debug/netcoreapp2.0/simplecrud.AssemblyInfo.cs
+/Users/tomgarcia/Desktop/CodingDojo/C#/simplecrud/obj/Debug/netcoreapp2.0/simplecrud.dll
+/Users/tomgarcia/Desktop/CodingDojo/C#/simplecrud/obj/Debug/netcoreapp2.0/simplecrud.pdb

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset='utf-8'>
+        <title>Dojodachi</title>
+        
+        <link rel="stylesheet" href="~/css/home.css"/>
+    </head>
+    <body>
+        <div id="top">
+
+            
+            <p>Fullness: @ViewBag.Guy[0].fullness </p>
+            <p>Happiness: @ViewBag.Guy[0].happiness </p>
+            <p>Meals: @ViewBag.Guy[0].meals </p>
+            <p>Energy: @ViewBag.Guy[0].energy </p>
+        </div>
+        <div id="guy">
+            <img src="~/img/Ninja.jpg" alt="Ninja">
+            <h5>@TempData["Message"]</h5>
+        </div>
+        <div id= "forms">
+            <form action="Feed" method="post" id="food">
+                <input type="submit" value="Feed">
+
+
+            </form>
+            <form id="kid" action="Play" method="post">
+                <input type="submit" value="Play">
+
+            </form>
+            <form action="Work" method ="post" id="trabajo">
+                <input type="submit" value="Work">
+
+            </form>
+            <form action="Sleepy" method="post" id="sueno">
+                <input type="submit" value="Sleep">
+
+            </form>
+
+        </div>
+
+        
+        
+    </body>
+</html>

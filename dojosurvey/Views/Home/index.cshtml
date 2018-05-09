@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset='utf-8'>
+        <title>Welcome</title>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+        <link rel="stylesheet" href="~/css/home.css"/>
+    </head>
+    <body>
+        <div id="info">
+
+            <form id="formstuff" action= "Success" method ="post"> 
+                <label for="name">Name:</label>
+                <input type="text" name="name">
+                <label for="loco" name="location">Location:</label>
+                <select name="location" id="location">
+                    <option name="sanjose">San Jose</option>
+                    <option name="chicago">Chicago</option>
+                    <option name="seattle">Seattle</option>
+                    <option name="burbank">Burbank</option>
+                </select>
+                <label for="lang">Favorite Language:</label>
+                <select name="language" id="language">
+                    <option name="python">Python</option>
+                    <option name="mean">MEAN</option>
+                    <option name="javascript">JavaScript</option>
+                    <option name="csharp">C#</option>
+                </select>
+                <label for="comment"></label>
+                <textarea name="comment" id="area"></textarea>
+                <input type="submit">
+            </form>
+        </div>
+    </body>
+</html>
