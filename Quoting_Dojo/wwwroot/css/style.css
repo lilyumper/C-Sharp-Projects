@@ -1,0 +1,21 @@
+#top{
+    text-align: center;
+}
+
+#stuff{
+   text-align: center;
+    width: 1000px;
+    height: 700px;
+    margin:auto;
+
+    
+}
+#boxy{
+    display:block;
+}
+textarea{
+    margin: 0px;
+    height: 125px;
+    width: 485px;
+
+}

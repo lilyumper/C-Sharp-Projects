@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset='utf-8'>
+        <title>Quoting Dojo!!!!!</title>
+        
+        <link rel="stylesheet" href="~/css/style.css"/>
+    </head>
+    <body>
+        <h1 id="top">HERE ARE THE QUOTES!!!!!!</h1>
+        @{
+             @foreach(var x in ViewBag.AllQuotes){
+                <p>"@x["quote"]"</p>
+                <p>@x["name"]   - @x["created_at"]</p>
+                <hr>     
+             }
+            
+        }
+       <a href="/"><button>Go back</button></a>
+      
+
+        
+        
+    </body>
+</html>

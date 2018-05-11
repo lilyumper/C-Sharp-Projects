@@ -1,0 +1,10 @@
+/Users/tomgarcia/Desktop/CodingDojo/C#/From_submission/bin/Debug/netcoreapp2.0/From_submission.deps.json
+/Users/tomgarcia/Desktop/CodingDojo/C#/From_submission/bin/Debug/netcoreapp2.0/From_submission.runtimeconfig.json
+/Users/tomgarcia/Desktop/CodingDojo/C#/From_submission/bin/Debug/netcoreapp2.0/From_submission.runtimeconfig.dev.json
+/Users/tomgarcia/Desktop/CodingDojo/C#/From_submission/bin/Debug/netcoreapp2.0/From_submission.dll
+/Users/tomgarcia/Desktop/CodingDojo/C#/From_submission/bin/Debug/netcoreapp2.0/From_submission.pdb
+/Users/tomgarcia/Desktop/CodingDojo/C#/From_submission/obj/Debug/netcoreapp2.0/From_submission.csproj.CoreCompileInputs.cache
+/Users/tomgarcia/Desktop/CodingDojo/C#/From_submission/obj/Debug/netcoreapp2.0/From_submission.AssemblyInfoInputs.cache
+/Users/tomgarcia/Desktop/CodingDojo/C#/From_submission/obj/Debug/netcoreapp2.0/From_submission.AssemblyInfo.cs
+/Users/tomgarcia/Desktop/CodingDojo/C#/From_submission/obj/Debug/netcoreapp2.0/From_submission.dll
+/Users/tomgarcia/Desktop/CodingDojo/C#/From_submission/obj/Debug/netcoreapp2.0/From_submission.pdb

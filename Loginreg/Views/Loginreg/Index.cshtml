@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset='utf-8'>
+        <title>form submit</title>
+        
+        <link rel="stylesheet" href="~/css/style.css"/>
+    </head> 
+    <body>
+        <h3>Welcome</h3>
+        <h4>Not a member? Register Here!!!!</h4>
+        <div>
+            @{
+                foreach(var error in ViewBag.errors)
+                {
+                    if(@error.Errors.Count > 0)
+                    {
+                        <p>@error.Errors[0].ErrorMessage</p>
+                    }
+                }
+                <p>@TempData["Message"]</p>
+            }
+        </div>
+        <form action="Success" method="post">
+        <label>First Name:</label>
+        <input type="text" name="first_name">
+        <label>Last Name:</label>
+        <input type="text" name="last_name">
+        <label>Email:</label>
+        <input type="text" name="email">
+        <label>Password:</label>
+        <input type="password" name="password">
+        <label>Confirm Password:</label>
+        <input type="password" name="cpassword">
+        <input type="submit">
+        </form>
+
+        <div>
+            <form action="Login" method="post">
+                <label>Email:</label>
+                <input type="text" name="loginemail">
+                <label>Password:</label>
+                <input type="password" name="loginpassword">
+                <input type="submit" value="Log in">
+            </form>
+        </div>
+    </body>
+</html>
+

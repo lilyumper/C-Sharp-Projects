@@ -1,0 +1,11 @@
+/Users/tomgarcia/Desktop/CodingDojo/C#/Loginreg/bin/Debug/netcoreapp2.0/Loginreg.deps.json
+/Users/tomgarcia/Desktop/CodingDojo/C#/Loginreg/bin/Debug/netcoreapp2.0/Loginreg.runtimeconfig.json
+/Users/tomgarcia/Desktop/CodingDojo/C#/Loginreg/bin/Debug/netcoreapp2.0/Loginreg.runtimeconfig.dev.json
+/Users/tomgarcia/Desktop/CodingDojo/C#/Loginreg/bin/Debug/netcoreapp2.0/Loginreg.dll
+/Users/tomgarcia/Desktop/CodingDojo/C#/Loginreg/bin/Debug/netcoreapp2.0/Loginreg.pdb
+/Users/tomgarcia/Desktop/CodingDojo/C#/Loginreg/obj/Debug/netcoreapp2.0/Loginreg.csprojResolveAssemblyReference.cache
+/Users/tomgarcia/Desktop/CodingDojo/C#/Loginreg/obj/Debug/netcoreapp2.0/Loginreg.csproj.CoreCompileInputs.cache
+/Users/tomgarcia/Desktop/CodingDojo/C#/Loginreg/obj/Debug/netcoreapp2.0/Loginreg.AssemblyInfoInputs.cache
+/Users/tomgarcia/Desktop/CodingDojo/C#/Loginreg/obj/Debug/netcoreapp2.0/Loginreg.AssemblyInfo.cs
+/Users/tomgarcia/Desktop/CodingDojo/C#/Loginreg/obj/Debug/netcoreapp2.0/Loginreg.dll
+/Users/tomgarcia/Desktop/CodingDojo/C#/Loginreg/obj/Debug/netcoreapp2.0/Loginreg.pdb
