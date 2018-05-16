@@ -1,0 +1,64 @@
+
+@model Restauranter.Models.RegisterViewModel
+<!DOCTYPE html>
+<html>
+<head>
+<title>Review a Resturant</title>
+</head>
+<body>
+    <div style="text-align: center">
+        <h4>Been to a Resturant?? Leave a Review!!!</h4>
+    </div>
+
+    <div class="row">
+    <form class="col s12" action="register" method="post" >
+        <div class="input-field col s6">
+            <span asp-validation-for="Name">
+
+            </span>
+            <label>Your Name:</label>
+            <input name="Name" type="text">
+        </div>
+        <div class="input-field col s6">
+              <span asp-validation-for="Resturant">
+
+            </span>
+            <label>Resturant Name:</label>
+            <input type="text" name="Resturant">
+        </div>
+
+        <div class="input-field col s6">
+              <span asp-validation-for="Review">
+
+            </span>
+            <label>Review:</label>
+            <input type="text" name="Review">
+        </div>
+        <div class="input-field col s6">
+              <span asp-validation-for="Stars">
+
+            </span>
+             <label>Rating (please enter 1-5):</label>
+            <input type="number" name="Stars">
+        </div>
+       <div class="input-field col s6">
+             <span asp-validation-for="Attended">
+
+            </span>
+            <input type="date"  name="Attended">
+            <label>Date Attended:</label>
+        </div>
+        <div>
+            <input id="buttonguy" type="submit" value="Add Review">
+
+        </div>
+
+    </form>
+
+</div>
+
+    
+
+</body>
+</html>
+

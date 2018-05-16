@@ -1,0 +1,11 @@
+/Users/tomgarcia/Desktop/CodingDojo/C#/LostinWoods/bin/Debug/netcoreapp2.0/LostinWoods.deps.json
+/Users/tomgarcia/Desktop/CodingDojo/C#/LostinWoods/bin/Debug/netcoreapp2.0/LostinWoods.runtimeconfig.json
+/Users/tomgarcia/Desktop/CodingDojo/C#/LostinWoods/bin/Debug/netcoreapp2.0/LostinWoods.runtimeconfig.dev.json
+/Users/tomgarcia/Desktop/CodingDojo/C#/LostinWoods/bin/Debug/netcoreapp2.0/LostinWoods.dll
+/Users/tomgarcia/Desktop/CodingDojo/C#/LostinWoods/bin/Debug/netcoreapp2.0/LostinWoods.pdb
+/Users/tomgarcia/Desktop/CodingDojo/C#/LostinWoods/obj/Debug/netcoreapp2.0/LostinWoods.csprojResolveAssemblyReference.cache
+/Users/tomgarcia/Desktop/CodingDojo/C#/LostinWoods/obj/Debug/netcoreapp2.0/LostinWoods.csproj.CoreCompileInputs.cache
+/Users/tomgarcia/Desktop/CodingDojo/C#/LostinWoods/obj/Debug/netcoreapp2.0/LostinWoods.AssemblyInfoInputs.cache
+/Users/tomgarcia/Desktop/CodingDojo/C#/LostinWoods/obj/Debug/netcoreapp2.0/LostinWoods.AssemblyInfo.cs
+/Users/tomgarcia/Desktop/CodingDojo/C#/LostinWoods/obj/Debug/netcoreapp2.0/LostinWoods.dll
+/Users/tomgarcia/Desktop/CodingDojo/C#/LostinWoods/obj/Debug/netcoreapp2.0/LostinWoods.pdb

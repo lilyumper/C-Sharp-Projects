@@ -1,0 +1,61 @@
+@using LostinWoods.Models
+@model LostinWoods.Models.RegisterViewModel
+@{
+    
+}
+<h3>Add your Trail!!!</h3>
+<div class="row">
+    <form class="col s12" action="register" method="post" >
+        <div class="input-field col s6">
+            <span asp-validation-for="name">
+
+            </span>
+            <label>Trail Name:</label>
+            <input name="name" type="text">
+        </div>
+        <div class="input-field col s6">
+              <span asp-validation-for="description">
+
+            </span>
+            <label>Description</label>
+            <input type="text" name="description">
+        </div>
+
+        <div class="input-field col s6">
+              <span asp-validation-for="traillength">
+
+            </span>
+            <label>Trail Length:</label>
+            <input type="number" name="traillength">
+        </div>
+        <div class="input-field col s6">
+              <span asp-validation-for="elevation">
+
+            </span>
+             <label>Elevation:</label>
+            <input type="number" name="elevation">
+        </div>
+       <div class="input-field col s6">
+             <span asp-validation-for="log">
+
+            </span>
+            <label>Longitude:</label>
+            <input type="number" step="0.01" name="log">
+        </div>
+        <div class="input-field col s6">
+              <span asp-validation-for="lat">
+
+            </span>
+
+            <label>Latitude:</label>
+            <input type="number" step="0.01" name="lat">
+
+        </div>
+        <input type="submit" value="Add Trail">
+
+    </form>
+    <div style="text-align: center">
+
+        <a href="/"><button>Go back!</button></a>
+    </div>
+</div>

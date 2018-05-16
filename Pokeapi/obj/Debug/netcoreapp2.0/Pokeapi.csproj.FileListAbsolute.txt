@@ -1,0 +1,10 @@
+/Users/tomgarcia/Desktop/CodingDojo/C#/Pokeapi/bin/Debug/netcoreapp2.0/Pokeapi.deps.json
+/Users/tomgarcia/Desktop/CodingDojo/C#/Pokeapi/bin/Debug/netcoreapp2.0/Pokeapi.runtimeconfig.json
+/Users/tomgarcia/Desktop/CodingDojo/C#/Pokeapi/bin/Debug/netcoreapp2.0/Pokeapi.runtimeconfig.dev.json
+/Users/tomgarcia/Desktop/CodingDojo/C#/Pokeapi/bin/Debug/netcoreapp2.0/Pokeapi.dll
+/Users/tomgarcia/Desktop/CodingDojo/C#/Pokeapi/bin/Debug/netcoreapp2.0/Pokeapi.pdb
+/Users/tomgarcia/Desktop/CodingDojo/C#/Pokeapi/obj/Debug/netcoreapp2.0/Pokeapi.csproj.CoreCompileInputs.cache
+/Users/tomgarcia/Desktop/CodingDojo/C#/Pokeapi/obj/Debug/netcoreapp2.0/Pokeapi.AssemblyInfoInputs.cache
+/Users/tomgarcia/Desktop/CodingDojo/C#/Pokeapi/obj/Debug/netcoreapp2.0/Pokeapi.AssemblyInfo.cs
+/Users/tomgarcia/Desktop/CodingDojo/C#/Pokeapi/obj/Debug/netcoreapp2.0/Pokeapi.dll
+/Users/tomgarcia/Desktop/CodingDojo/C#/Pokeapi/obj/Debug/netcoreapp2.0/Pokeapi.pdb

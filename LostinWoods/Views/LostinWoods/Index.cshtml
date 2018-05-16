@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Lost in Woods</title>
+</head>
+<body>
+    <div style="text-align: center">
+        <h3>Trips!!!!</h3>
+       <table>
+            <thead>
+                <th>Trail Name</th>
+                <th>Trail Length</th>
+                <th>Elevation Change</th> 
+                
+            </thead>
+            @foreach(var x in ViewBag.stuff){
+
+            <tr>
+
+                <td><a href="/show/@x.id">@x.name</a></td>
+                <td>@x.traillength miles</td>
+                <td>@x.elevation Feet
+                </td>
+            </tr>
+        }
+        </table>
+        <a href="/addtrail"><button>Add a Trail Trip</button></a>
+    <div>
+        
+
+
+
+</body>
+</html>

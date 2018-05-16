@@ -1,0 +1,11 @@
+/Users/tomgarcia/Desktop/CodingDojo/C#/Restauranter/bin/Debug/netcoreapp2.0/Restauranter.deps.json
+/Users/tomgarcia/Desktop/CodingDojo/C#/Restauranter/bin/Debug/netcoreapp2.0/Restauranter.runtimeconfig.json
+/Users/tomgarcia/Desktop/CodingDojo/C#/Restauranter/bin/Debug/netcoreapp2.0/Restauranter.runtimeconfig.dev.json
+/Users/tomgarcia/Desktop/CodingDojo/C#/Restauranter/bin/Debug/netcoreapp2.0/Restauranter.dll
+/Users/tomgarcia/Desktop/CodingDojo/C#/Restauranter/bin/Debug/netcoreapp2.0/Restauranter.pdb
+/Users/tomgarcia/Desktop/CodingDojo/C#/Restauranter/obj/Debug/netcoreapp2.0/Restauranter.csprojResolveAssemblyReference.cache
+/Users/tomgarcia/Desktop/CodingDojo/C#/Restauranter/obj/Debug/netcoreapp2.0/Restauranter.csproj.CoreCompileInputs.cache
+/Users/tomgarcia/Desktop/CodingDojo/C#/Restauranter/obj/Debug/netcoreapp2.0/Restauranter.AssemblyInfoInputs.cache
+/Users/tomgarcia/Desktop/CodingDojo/C#/Restauranter/obj/Debug/netcoreapp2.0/Restauranter.AssemblyInfo.cs
+/Users/tomgarcia/Desktop/CodingDojo/C#/Restauranter/obj/Debug/netcoreapp2.0/Restauranter.dll
+/Users/tomgarcia/Desktop/CodingDojo/C#/Restauranter/obj/Debug/netcoreapp2.0/Restauranter.pdb
