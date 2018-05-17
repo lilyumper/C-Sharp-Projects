@@ -1,0 +1,52 @@
+@model Banker.Models.BalanceViewModel
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Account</title>
+    </head>
+
+    <body>
+        <h3>Welcome @ViewBag.user.fname  @ViewBag.user.lname</h3>
+        <h4>Current Balance:$ @ViewBag.user.balance.ToString("0.00")</h4>
+        <form action="Moneyact" method="post">
+            <span asp-validation-for="amount">
+
+            </span>
+            <h5>Deposit/Withdraw</h5>
+            <input name="amount" type="number">
+            <input type="submit" value="Deposit or Withdraw">
+            
+        </form>
+
+        <table style="magin-top:50px;">
+            <th>
+                Date:
+            </th>
+            <th>Transaction</th>
+            @{
+
+            @if(@ViewBag.user.transactions != null){
+
+
+          
+                @foreach(var transaction in @ViewBag.user.transactions){
+                    <tr>
+                        <td>@transaction.created_at</td>
+                        <td>@transaction.amount.ToString("C")</td>
+                    </tr>
+                }
+            }
+            
+           
+        }
+
+        </table>
+        <form action="Logout" method="post">
+            <input type="submit" value="Logout">
+        </form>
+
+        
+
+    </body>
+</html>
+
