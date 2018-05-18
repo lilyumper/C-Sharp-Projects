@@ -1,0 +1,11 @@
+/Users/tomgarcia/Desktop/CodingDojo/C#/Entitypractice/bin/Debug/netcoreapp2.0/Entitypractice.deps.json
+/Users/tomgarcia/Desktop/CodingDojo/C#/Entitypractice/bin/Debug/netcoreapp2.0/Entitypractice.runtimeconfig.json
+/Users/tomgarcia/Desktop/CodingDojo/C#/Entitypractice/bin/Debug/netcoreapp2.0/Entitypractice.runtimeconfig.dev.json
+/Users/tomgarcia/Desktop/CodingDojo/C#/Entitypractice/bin/Debug/netcoreapp2.0/Entitypractice.dll
+/Users/tomgarcia/Desktop/CodingDojo/C#/Entitypractice/bin/Debug/netcoreapp2.0/Entitypractice.pdb
+/Users/tomgarcia/Desktop/CodingDojo/C#/Entitypractice/obj/Debug/netcoreapp2.0/Entitypractice.csprojResolveAssemblyReference.cache
+/Users/tomgarcia/Desktop/CodingDojo/C#/Entitypractice/obj/Debug/netcoreapp2.0/Entitypractice.csproj.CoreCompileInputs.cache
+/Users/tomgarcia/Desktop/CodingDojo/C#/Entitypractice/obj/Debug/netcoreapp2.0/Entitypractice.AssemblyInfoInputs.cache
+/Users/tomgarcia/Desktop/CodingDojo/C#/Entitypractice/obj/Debug/netcoreapp2.0/Entitypractice.AssemblyInfo.cs
+/Users/tomgarcia/Desktop/CodingDojo/C#/Entitypractice/obj/Debug/netcoreapp2.0/Entitypractice.dll
+/Users/tomgarcia/Desktop/CodingDojo/C#/Entitypractice/obj/Debug/netcoreapp2.0/Entitypractice.pdb

@@ -32,7 +32,7 @@ namespace Banker.Controllers{
             if(ModelState.IsValid){
                 User ExistingUser = _context.Users.SingleOrDefault(u => u.email == model.email);
                 if(ExistingUser !=null){
-                    ModelState.AddModelError("email:","This Email already exist! Please enter another email");
+                    ModelState.AddModelError("email","This Email already exist! Please enter another email");
                     return View("register", model);
                     
                 }

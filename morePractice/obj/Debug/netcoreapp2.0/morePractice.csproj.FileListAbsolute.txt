@@ -1,0 +1,10 @@
+/Users/tomgarcia/Desktop/CodingDojo/C#/morePractice/bin/Debug/netcoreapp2.0/morePractice.deps.json
+/Users/tomgarcia/Desktop/CodingDojo/C#/morePractice/bin/Debug/netcoreapp2.0/morePractice.runtimeconfig.json
+/Users/tomgarcia/Desktop/CodingDojo/C#/morePractice/bin/Debug/netcoreapp2.0/morePractice.runtimeconfig.dev.json
+/Users/tomgarcia/Desktop/CodingDojo/C#/morePractice/bin/Debug/netcoreapp2.0/morePractice.dll
+/Users/tomgarcia/Desktop/CodingDojo/C#/morePractice/bin/Debug/netcoreapp2.0/morePractice.pdb
+/Users/tomgarcia/Desktop/CodingDojo/C#/morePractice/obj/Debug/netcoreapp2.0/morePractice.csproj.CoreCompileInputs.cache
+/Users/tomgarcia/Desktop/CodingDojo/C#/morePractice/obj/Debug/netcoreapp2.0/morePractice.AssemblyInfoInputs.cache
+/Users/tomgarcia/Desktop/CodingDojo/C#/morePractice/obj/Debug/netcoreapp2.0/morePractice.AssemblyInfo.cs
+/Users/tomgarcia/Desktop/CodingDojo/C#/morePractice/obj/Debug/netcoreapp2.0/morePractice.dll
+/Users/tomgarcia/Desktop/CodingDojo/C#/morePractice/obj/Debug/netcoreapp2.0/morePractice.pdb

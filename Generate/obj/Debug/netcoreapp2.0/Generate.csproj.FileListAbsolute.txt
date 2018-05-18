@@ -1,0 +1,10 @@
+/Users/tomgarcia/Desktop/CodingDojo/C#/Generate/bin/Debug/netcoreapp2.0/Generate.deps.json
+/Users/tomgarcia/Desktop/CodingDojo/C#/Generate/bin/Debug/netcoreapp2.0/Generate.runtimeconfig.json
+/Users/tomgarcia/Desktop/CodingDojo/C#/Generate/bin/Debug/netcoreapp2.0/Generate.runtimeconfig.dev.json
+/Users/tomgarcia/Desktop/CodingDojo/C#/Generate/bin/Debug/netcoreapp2.0/Generate.dll
+/Users/tomgarcia/Desktop/CodingDojo/C#/Generate/bin/Debug/netcoreapp2.0/Generate.pdb
+/Users/tomgarcia/Desktop/CodingDojo/C#/Generate/obj/Debug/netcoreapp2.0/Generate.csproj.CoreCompileInputs.cache
+/Users/tomgarcia/Desktop/CodingDojo/C#/Generate/obj/Debug/netcoreapp2.0/Generate.AssemblyInfoInputs.cache
+/Users/tomgarcia/Desktop/CodingDojo/C#/Generate/obj/Debug/netcoreapp2.0/Generate.AssemblyInfo.cs
+/Users/tomgarcia/Desktop/CodingDojo/C#/Generate/obj/Debug/netcoreapp2.0/Generate.dll
+/Users/tomgarcia/Desktop/CodingDojo/C#/Generate/obj/Debug/netcoreapp2.0/Generate.pdb
