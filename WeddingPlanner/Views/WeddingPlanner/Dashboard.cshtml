@@ -1,0 +1,45 @@
+<h1>Dashboard</h1>
+<table class="striped">
+    <thead>
+        <tr>
+            <th>Wedding</th>
+            <th>Date</th>
+            <th>Guest</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            @foreach(var plans in @ViewBag.Plans)
+            {
+                <tr>
+                    <td><a href="/wedding/@plans.Id">@plans.PersonOne and @plans.PersonTwo</a></td>
+                    <td>@plans.Date.ToString("MMM dd, yyyy")</td>
+                    <td>@plans.users.Count</td>
+                    @if(@plans.userid == @ViewBag.CurrentUser.Id)
+                    {
+                        <td><a href="/cancel/@plans.Id">Delete</a></td>
+                    }
+                    else {
+                        bool found = false;
+                        foreach(var a in @plans.users)
+                        {
+                            if(a.UserId == ViewBag.CurrentUser.Id)
+                            {
+                                <td><a href="/unrsvp/@plans.Id">Un-rsvp</a></td>
+                                found = true;
+                                break;
+                            }
+                        }
+                        @if(!found)
+                        {
+                            <td><a href="/rsvp/@plans.Id">Rsvp</a></td>
+                        }
+                    }
+
+                </tr>
+            }
+        }
+    </tbody>
+
+</table>

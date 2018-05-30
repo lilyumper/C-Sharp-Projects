@@ -1,0 +1,72 @@
+@foreach(var wedding in @ViewBag.Wedding)
+{
+    <h1>@wedding.PersonOne and @wedding.PersonTwo Wedding</h1>
+    <h4>Date: @wedding.Date.ToString("MMM dd, yyyy")</h4>
+    <h4>Address: @wedding.Address </h4>
+    <h4>Guests:</h4>
+    @foreach(var person in wedding.users)
+    {
+        <p>@person.user.fName @person.user.lName</p>
+    }
+}
+<a href="/dashboard" class="waves-effect waves-light btn"><i class="material-icons left">cloud</i>Dashboard</a>
+
+
+@model BeltExam.Models.RegisterViewMessage
+
+<h5>Hello <a href="/user/@ViewBag.CurrentUser.Id">@ViewBag.CurrentUser.Alias</a></h5>
+<div class="row">
+    <form asp-controller="BeltExam" asp-action="CreatePost" method="POST">
+        <div class="input-field col s6">
+          <textarea asp-for="content" placeholder="share your thoughts" class="materialize-textarea"></textarea>
+          <label asp-for="content">Message</label>
+            <span asp-validation-for="content"></span>
+            <div class="col s6">
+                <button class="btn waves-effect waves-light" type="submit" >Create
+                    <i class="material-icons right">send</i>
+                </button>
+            </div>
+        </div>
+    </form>
+</div>
+<div class="row">
+    @{
+        @foreach(var DashPost in @ViewBag.Posts)
+        {   
+            <div class="row">
+                <div class="col s6 m6">
+                    <div class="card blue-grey darken-1">
+                        <div class="card-content white-text">
+                            <span class="card-title"><a href="/user/@DashPost.userId">@DashPost.creator.Alias</a> says:</span>
+                        
+                            <p>@DashPost.content</p>
+                        </div>
+                        <div class="card-action">
+                            @if(@DashPost.userId == @ViewBag.CurrentUser.Id)
+                            {
+                                <a href="/delete/@DashPost.Id">Delete</a>
+                            }
+                            else{
+                                bool found = false;
+                                foreach(var a in @DashPost.likes)
+                                {
+                                    if(a.UserId == ViewBag.CurrentUser.Id)
+                                    {
+                                        <a href="/dislike/@DashPost.Id">Dislike</a>
+                                        found = true;
+                                        break;
+                                    }
+                                }
+                                @if(!found)
+                                {
+                                    <a href="/like/@DashPost.Id">Like</a>
+                                }
+                            }
+                            <a href="/message/@DashPost.Id"> @DashPost.likes.Count users Like this</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    }
+</div>

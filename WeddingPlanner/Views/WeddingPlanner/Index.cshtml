@@ -1,0 +1,61 @@
+@model WeddingPlanner.Models.RegisterViewUser
+
+<div class="row">
+    <!-- Registration block -->
+    <div class="col s6">
+        <h2>Registration</h2>
+        <form asp-controller="WeddingPlanner" asp-action="Register" method="post">
+            <div class="input-field col s12">
+                <input asp-for="fName" class="validate"/>
+                <label asp-for="fName">First Name</label>
+                <span asp-validation-for="fName"></span>
+            </div>
+            <div class="input-field col s12">
+                <input asp-for="lName" class="validate"/>
+                <label asp-for="lName">Last Name</label>
+                <span asp-validation-for="lName"></span>
+            </div>
+            <div class="input-field col s12">
+                <input asp-for="Email" class="validate"/>
+                <label asp-for="Email">Email</label>
+                <span asp-validation-for="Email"></span>
+            </div>
+            <div class="input-field col s12">
+                <input asp-for="Password" class="validate"/>
+                <label asp-for="Password">Password</label>
+                <span asp-validation-for="Password"></span>
+            </div>
+            <div class="input-field col s12">
+                <input asp-for="cPassword" class="validate"/>
+                <label for="cPassword">Confirm Password</label>
+                <span asp-validation-for="cPassword"></span>
+            </div>
+            <div class="col s6">
+                <button class="btn waves-effect waves-light" type="submit" >Create
+                    <i class="material-icons right">send</i>
+                </button>
+            </div>
+        </form>
+    </div>
+    <!--Login-->
+    <div class="col s6">
+        <h2>Login</h2>
+        <form action="Login" method="post">
+            <div class="input-field col s12">
+                <input name="lEmail" type="email" class="validate"/>
+                <label for="lEmail">Email</label>
+                <span>@ViewBag.WrongEmail</span>
+            </div>
+            <div class="input-field col s12">
+                <input name="lPassword" type="password" class="validate"/>
+                <label for="lPassword">Password</label>
+                <span>@ViewBag.WrongPassword</span>
+            </div>
+            <div class="col s6">
+                <button class="btn waves-effect waves-light" type="submit" >Login
+                    <i class="material-icons right">send</i>
+                </button>
+            </div>
+        </form>
+    </div>
+</div>
